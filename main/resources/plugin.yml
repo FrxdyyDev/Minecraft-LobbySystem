@@ -1,0 +1,10 @@
+name: CWLoungeLobby
+version: 1.0
+main: de.cwlounge.cwloungedelobbysystem.Main
+api-version: 1.18
+authors: [ Frxdy ]
+description: Lobbysystem
+
+commands:
+  gm:
+    description: change gm
